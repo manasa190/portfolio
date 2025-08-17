@@ -1,65 +1,70 @@
-🚀 Personal Portfolio – Manasa Sanjay
-Hi there! 👋
-I'm Manasa Sanjay, and this is my personal portfolio website built with modern web tools to showcase my projects, skills, and achievements.
+# 🚀 Personal Portfolio – Manasa Sanjay
 
-🌐 Live Demo
-📬 Contact: manasasanjay@gmail.com
+Hi there! 👋  
+I'm **Manasa Sanjay**, and this is my personal portfolio website built with modern web tools to showcase my projects, skills, and achievements.
 
-🛠️ Built With
-React – Frontend Framework
+---
 
-Tailwind CSS – For responsive design and styling
+## 🌐 Live Demo  
+👉 [View Portfolio](https://your-vercel-url.vercel.app)  
+*(Replace this with your actual Vercel deployment link once live)*
 
-Framer Motion – Smooth animations
+📬 Contact: **manasasanjay4@gmail.com**
 
-Lucide Icons – Beautiful icons
+---
 
-AOS (Animate On Scroll) – Scroll-based effects
+## 🛠️ Built With  
+- ⚛️ React – Frontend Framework  
+- 🎨 Tailwind CSS – For responsive design and styling  
+- ✨ Framer Motion – Smooth animations  
+- 🔗 Lucide Icons – Beautiful icons  
+- 🌀 AOS (Animate On Scroll) – Scroll-based effects  
+- ⚡ Vite – Super-fast bundler  
 
-Vite – Super-fast bundler
+---
 
-🏃 Getting Started
+## 🏃 Getting Started  
 
-1. Clone the Repo
-git clone https://github.com/manasasanjay/portfolio.git
+### 1. Clone the Repo  
+```bash
+git clone https://github.com/manasa190/portfolio.git
 cd portfolio
-
-2. Install Dependencies
+Install Dependencies
 npm install
 # or
 npm install --legacy-peer-deps
 
-3. Run Locally
+
+ Run Locally
 npm run dev
 Your app should now be running at http://localhost:5173
-
 🔧 Environment Setup (Optional - Supabase)
+
 If you want to connect this portfolio to a Supabase backend:
 
-Create a .env file in the root folder
+Create a .env file in the root folder.
 
 Add:
-.env
+
 VITE_SUPABASE_URL=your-supabase-url
 VITE_SUPABASE_ANON_KEY=your-anon-key
 
 📦 Build for Production
 npm run build
-npm run build
-Output will be in the dist/ folder. You can deploy this using services like Netlify, Vercel, or your preferred hosting provider.
+
+
+Output will be in the dist/ folder.
+You can deploy this using services like Netlify, Vercel, or any other hosting provider.
 
 💬 Contact
-Feel free to reach out!
 
 ✉️ Email: manasasanjay4@gmail.com
 
 🧑‍💻 GitHub: github.com/manasa190
 
-💼 LinkedIn: https://www.linkedin.com/in/manasasanjay/
+💼 LinkedIn: linkedin.com/in/manasasanjay
 
 🙏 Credits
-Built and maintained by Manasa Sanjay
-Inspired by modern developer portfolios and open-source creativity.
 
-"# portfolio" 
-"# portfolio" 
+Built and maintained by Manasa Sanjay ✨
+Inspired by modern developer portfolios and open-source creativity.
